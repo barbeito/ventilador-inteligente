@@ -28,11 +28,10 @@
 #define LED_VERD 19 // modo manual
 #define DHT_SENSOR 27
 #define DHTTYPE DHT11
-#define SSID "2G_Janderson"
-#define PASSWORD "cwkf@165243"
+#define SSID "SSID_rede"
+#define PASSWORD "senha_rede"
 #define AUTOMATICO 1
 #define MANUAL 0
-#define TEMPO_DEBOUCE 10
 
 typedef enum {
     DESLIGADO = 1,
